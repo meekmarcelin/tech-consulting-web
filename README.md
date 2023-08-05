@@ -4,7 +4,7 @@ Website for our IT Services company, Tech Consulting hub. It provides all tech c
 Installation
 Download the Source Code
 
-Clone the repository from GitHub: git clone https://github.com/tech-consulting-hub/website.git
+Clone the repository from GitHub: git clone https://github.com/meekmarcelin/tech-consulting-web.git
 Alternatively, download the ZIP file and extract it to your preferred directory.
 Configure Web Server
 
