@@ -10,3 +10,7 @@ Configure Web Server
 
 Set up a virtual host or configure your web server to point to the project directory.
 Ensure the web server has appropriate permissions to access the project files.
+
+This is also the Tech consulting Hub deployed link
+https://techconsulting.vercel.app/
+
